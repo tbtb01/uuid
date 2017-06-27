@@ -4,6 +4,3 @@ rvm:
 gemfile:
 - Gemfile
 env:
-notifications:
-  recipients:
-  - assaf@labnotes.org
