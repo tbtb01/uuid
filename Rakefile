@@ -1,5 +1,5 @@
 require 'rake/testtask'
-require 'rake/rdoctask'
+#require 'rake/rdoctask'
 
 
 spec = Gem::Specification.load(File.expand_path("uuid.gemspec", File.dirname(__FILE__)))
