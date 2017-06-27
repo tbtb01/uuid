@@ -1,4 +1,5 @@
-source :rubygems
+#source :rubygems
+source 'http://rubygems.org/'
 gemspec
 
 group :development do
