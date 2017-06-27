@@ -1,24 +1,24 @@
-PATH
-  remote: .
-  specs:
-    uuid (2.3.4)
-      macaddr (~> 1.0)
+#PATH
+#  remote: .
+#  specs:
+#    uuid (2.3.4)
+#      macaddr (~> 1.0)
 
-GEM
-  remote: http://rubygems.org/
-  specs:
-    macaddr (1.4.0)
-      systemu (~> 2.2.0)
-    mocha (0.9.12)
-    rake (0.8.7)
-    systemu (2.2.0)
-    yard (0.6.7)
+#GEM
+#  remote: http://rubygems.org/
+#  specs:
+#    macaddr (1.4.0)
+#      systemu (~> 2.2.0)
+#    mocha (0.9.12)
+#    rake (0.8.7)
+#    systemu (2.2.0)
+#    yard (0.6.7)
 
-PLATFORMS
-  ruby
+#PLATFORMS
+#  ruby
 
-DEPENDENCIES
-  mocha
-  rake
-  uuid!
-  yard
+#DEPENDENCIES
+#  mocha
+#  rake
+#  uuid!
+#  yard
